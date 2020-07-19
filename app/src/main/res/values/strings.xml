@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinToast</string>
+    <string name="toast_msg">Hello I want more of kotlin</string>
+</resources>
